@@ -1,4 +1,4 @@
 # DockerImages
-Docker Compose Images for FastDeploy
+Docker Compose Images.
 
 In this repository you can find personal images for labs.
